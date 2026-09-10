@@ -23,7 +23,7 @@ The main focus areas include:
 
 # Technologies used:
 * SQL.
-* MySQL
+* MySQL.
 * MySQL Workbench.
 
 # SQL Topics Covered:
